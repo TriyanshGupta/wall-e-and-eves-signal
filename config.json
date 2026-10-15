@@ -1,0 +1,14 @@
+{
+  "grid_size": 5,
+  "start_position": [1, 0],
+  "eve_position": [1, 4],
+  "recharge_station": [0, 0],
+  "initial_energy": 20,
+  "max_energy": 20,
+  "move_cost": 1,
+  "scan_cost": 1,
+  "recharge_amount": 10,
+  "signal_radius": 8,
+  "max_actions": 200,
+  "gui_delay_ms": 150
+}
